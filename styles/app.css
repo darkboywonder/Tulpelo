@@ -16,3 +16,20 @@ i{
 li {
     margin: 10px 0;
 }
+
+ul {  
+    width: 243px;
+    vertical-align: middle;
+    margin: 0 auto; 
+}
+
+.card-title {
+    display: block;
+    text-align: center;
+    font-size: 32px !important;
+}
+
+.card-action {
+    margin: 0 auto;
+    width: 243px;
+}
